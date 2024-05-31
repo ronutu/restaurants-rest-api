@@ -1,7 +1,14 @@
 # Restaurants RESTful API
 
 ## Overview
-The Restaurant API is a RESTful API designed to manage restaurant-related data. The data is divided in 3 tables: Restaurants, Owners and Cities. The API provides endpoints for all CRUD operations. While the restaurant endpoints are private and require JWT token authentication and middleware validation, the other endpoints are publicly accessible.
+The Restaurants RESTful API is designed to manage restaurant-related data efficiently. The data is divided in three tables: *Restaurants*, *Owners* and *Cities*. The API supports all CRUD (Create, Read, Update, Delete) operations.
 
-## Features
-* 
+* Restaurants endpoints: These are private and secured, requiring JWT token authentication and middleware validation to ensure authorized access.
+* Owners and Cities endpoints: These are publicly accessible, allowing unrestricted access for basic data operations.
+
+## Technologies
+* Node.js: utilized for building and running the API
+* DBeaver: employed for database creation
+* Docker: utilized for hosting the database
+* Prisma: used for database connection
+* Postman: employed for endpoint testing
