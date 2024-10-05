@@ -11,3 +11,4 @@ The Restaurants RESTful API is designed to manage restaurant-related data effici
 * Docker
 * Prisma
 * Postman
+* postgres
