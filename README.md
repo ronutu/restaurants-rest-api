@@ -7,8 +7,7 @@ The Restaurants RESTful API is designed to manage restaurant-related data effici
 * Owners and Cities endpoints: These are publicly accessible, allowing unrestricted access for basic data operations.
 
 ## Technologies
-* Node.js: utilized for building and running the API
-* DBeaver: employed for database creation
-* Docker: utilized for hosting the database
-* Prisma: used for database connection
-* Postman: employed for endpoint testing
+* Node.js, express, jsonwebtoken, cookie-parser
+* Docker
+* Prisma
+* Postman
