@@ -7,8 +7,8 @@ The Restaurants RESTful API is designed to manage restaurant-related data effici
 * Owners and Cities endpoints: These are publicly accessible, allowing unrestricted access for basic data operations.
 
 ## Technologies
-* Node.js, express, jsonwebtoken, cookie-parser
+* Node.js, Express, jsonwebtoken, cookie-parser
 * Docker
 * Prisma
 * Postman
-* postgres
+* PostgreSQL
